@@ -9,7 +9,8 @@ BuildParameters.SetParameters(
     title: "Cake.Issues.DocFx",
     repositoryOwner: "cake-contrib",
     repositoryName: "Cake.Issues.DocFx",
-    appVeyorAccountName: "cakecontrib");
+    appVeyorAccountName: "cakecontrib",
+    shouldRunCodecov: false);
 
 BuildParameters.PrintParameters(Context);
 
