@@ -3,7 +3,7 @@
 This addin for the Cake Build Automation System allows you to read issues logged as warnings by MsBuild
 using the [Cake Issues addin](https://github.com/cake-contrib/Cake.Issues).
 
-For more information about this add-in see the [Cake.Issues website](https://cake-contrib.github.io/Cake.Issues.Website)
+For more information about this add-in see the [Cake.Issues website](https://cakeissues.net)
 and for general information about the Cake build automation system see the [Cake website](http://cakebuild.net)
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/cake-contrib/Cake.Issues.DocFx/blob/feature/build/LICENSE)
@@ -20,7 +20,7 @@ and for general information about the Cake build automation system see the [Cake
 | | Develop | Master |
 |:--:|:--:|:--:|
 |AppVeyor Windows|[![Build status](https://ci.appveyor.com/api/projects/status/anynhsed2v76icqg/branch/develop?svg=true)](https://ci.appveyor.com/project/cakecontrib/cake-issues-docfx/branch/develop)|[![Build status](https://ci.appveyor.com/api/projects/status/anynhsed2v76icqg/branch/master?svg=true)](https://ci.appveyor.com/project/cakecontrib/cake-issues-docfx/branch/master)|
-|Azure DevOps Windows|[![Build Status](https://dev.azure.com/cake-contrib/Cake.Issues.DocFx/_apis/build/status/cake-contrib.Cake.Issues.DocFx?branchName=develop&jobName=Windows)](https://dev.azure.com/cake-contrib/Cake.Issues.DocFx/_build/latest?definitionId=13?branchName=develop)|[![Build Status](https://dev.azure.com/cake-contrib/Cake.Issues.DocFx/_apis/build/status/cake-contrib.Cake.Issues.DocFx?branchName=master&jobName=Windows)](https://dev.azure.com/cake-contrib/Cake.Issues.DocFx/_build/latest?definitionId=13?branchName=master)|
+|Azure DevOps Windows|[![Build Status](https://dev.azure.com/cake-contrib/Cake.Issues.DocFx/_apis/build/status/cake-contrib.Cake.Issues.DocFx?branchName=develop&jobName=Windows)](https://dev.azure.com/cake-contrib/Cake.Issues.DocFx/_build/latest?definitionId=13?&branchName=develop)|[![Build Status](https://dev.azure.com/cake-contrib/Cake.Issues.DocFx/_apis/build/status/cake-contrib.Cake.Issues.DocFx?branchName=master&jobName=Windows)](https://dev.azure.com/cake-contrib/Cake.Issues.DocFx/_build/latest?definitionId=13&branchName=master)|
 
 ## Code Coverage
 
@@ -28,7 +28,7 @@ and for general information about the Cake build automation system see the [Cake
 
 ## Quick Links
 
-- [Documentation](https://cake-contrib.github.io/Cake.Issues.Website)
+- [Documentation](https://cakeissues.net)
 
 ## Chat Room
 
